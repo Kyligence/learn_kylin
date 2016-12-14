@@ -310,6 +310,7 @@ CREATE TABLE airline (
 
 在hive中运行命令：
 
+`hive> set hive.exec.dynamic.partition.mode=nonstrict;`
 `hive> set hive.exec.max.dynamic.partitions=20000;`
 
 注意：引入插件包去分割符，会将所有字段强行转换为`String`类型，而后面我们对数据进行分析计算的时候，需要用到的是`integer`型，因此我们还需要对表中的原数据进行一次数据转换；
