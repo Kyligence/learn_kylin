@@ -2,7 +2,7 @@
 
 Contoso：Tutorial for Sales Analytics based on Apache Kylin
 
-Blog: [基于Apache Kylin的销售示例分析](http://kyligence.io/2016/10/1396/)
+Blog: [基于Apache Kylin的销售示例分析](http://kyligence.io/zh/2016/10/12/apache-kylin-sales-analytics/)
 
 Airline：Tutorial for Airline On-Time Performance Analytics based on Apache Kylin
 
